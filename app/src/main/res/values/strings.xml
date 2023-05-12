@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UTS MOBILE</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="subscription">Subscription</string>
+    <string name="Profil">Profil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_description">Movie Description</string>
+
+    <string name="Bruno">Bruno</string>
+    <string name="Casemiro">Casemiro</string>
+    <string name="Dalot">Dalot</string>
+    <string name="DeGea">DeGea</string>
+    <string name="Fred">Fred</string>
+    <string name="Garnacho">Garnacho</string>
+    <string name="Martinez">Martinez</string>
+    <string name="Rashford">Rashford</string>
+    <string name="Shaw">Shaw</string>
+    <string name="Varane">Varane</string>
+
+</resources>
